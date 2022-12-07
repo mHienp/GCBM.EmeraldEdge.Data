@@ -1,2 +1,1 @@
-# GCBM.EmeraldEdge.Data
-Data preprocessing for GCBM.EmeraldEdge
+# Data preprocessing for GCBM.EmeraldEdge
