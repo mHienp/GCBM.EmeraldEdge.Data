@@ -3,3 +3,4 @@
 >
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/tab.png)
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/TNC_Carbon_Stories_Map_Emerald_EdgeV5.jpg)
+https://www.nature.org/en-us/about-us/where-we-work/priority-landscapes/emerald-edge/
