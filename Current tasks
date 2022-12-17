@@ -1,6 +1,7 @@
 Tasks being worked on:
 
-Getting the tree species and growth curves of the researched area
-Fixing the CRS of certain shapes
-Interacting with the processed outputs of GCBM.Belize
-Figuring out Taswira
+As of Dec 16, 2022
+1. Getting the tree species and growth curves of the researched area (spanning over US & Canadian territories)
+2. Fixing the CRS of continent shapes
+3. Interacting with the processed outputs of GCBM.Belize
+4. Figuring out Taswira
