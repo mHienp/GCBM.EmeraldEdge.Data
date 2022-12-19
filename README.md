@@ -31,3 +31,5 @@ https://www.for.gov.bc.ca/hre/becweb/resources/classificationreports/provincial
 
 **Western Washington area**
 > Douglas-fir is the most abundant tree species in Washington and therefore contributes the most to biomass and carbon storage across the state. Western hemlock, western redcedar, and Sitka spruce are found almost exclusively in temperate rainforest on the west side of the state. Hemlock/Sitka spruce forests contain the most biomass and carbon on a per-acre basis.
+
+https://usfs.maps.arcgis.com
