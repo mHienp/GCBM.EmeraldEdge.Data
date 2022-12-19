@@ -8,6 +8,7 @@ https://www.bezosearthfund.org/our-programs/the-emerald-edge-protecting-living-c
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/temp.png)
 
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/coastal%20alaska.jpg)
-USFS Forest Inventory - ARCGIS
+https://www.arcgis.com/apps/PublicGallery
+
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/beczones.gif)
-https://www.for.gov.bc.ca/hre/becweb/resources/classificationreports/provincial/
+https://www.for.gov.bc.ca/hre/becweb/resources/classificationreports/provincial
