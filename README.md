@@ -19,13 +19,17 @@ https://usfs.maps.arcgis.com
 Predominant tree genus (forest land only) | Volume |  
 --- | --- |
 Hemlock (coastal western hemlock, mountain hemlock) | 47.6% |
-Cedar and other conifers | 19.5% |
-Fir | 12.7% | +1 |
+Cedar (yellow cedar, western redcedar) and other conifers | 19.5% |
+Fir (Amabilis fir) | 12.7% | +1 |
 Douglas-fir (coastal Douglas-fir) | 12.5% |
-Spruce | 2.6% |
+Spruce (Sitka spruce) | 2.6% |
 
 https://cfs.nrcan.gc.ca/statsprofile/inventory/pacificmaritime
 https://www.for.gov.bc.ca/hfd/library/documents/treebook/biogeo/ichzone1.htm
+https://www.for.gov.bc.ca/hfd/library/documents/treebook/yellowcedar.htm
+https://www.for.gov.bc.ca/hfd/library/documents/treebook/westernredcedar.htm
+https://www.for.gov.bc.ca/hfd/library/documents/treebook/amabilisfir.htm
+https://www.for.gov.bc.ca/hfd/library/documents/treebook/sitkaspruce.htm
 
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/beczones.gif)
 https://www.for.gov.bc.ca/hre/becweb/resources/classificationreports/provincial
