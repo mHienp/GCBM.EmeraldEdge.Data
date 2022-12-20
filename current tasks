@@ -16,10 +16,9 @@ As of Dec 19, 2022
 2. Read "Model of carbon-dynamics in forestry and land-use change"
 3. Fixing the CRS of continent shapes
 4. Biomass, GSV, tree landscape datasets
-5. Maybe some inventory graphs
-6. Interacting with the processed outputs of GCBM.Belize
-7. Figuring out Taswira
-8. Functions, loops...
+5. Interacting with the processed outputs of GCBM.Belize
+6. Figuring out Taswira
+7. Functions, loops...
 
 Done:
 ✓ Installed GCBM tools 
@@ -30,3 +29,4 @@ Done:
 ✓ Boundaries of researched area
 ✓ General spatial data 
 ✓ Identify dominant tree species are on the researched area
+✓ Some inventory graphs
