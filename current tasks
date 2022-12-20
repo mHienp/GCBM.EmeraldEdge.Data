@@ -1,10 +1,14 @@
 Tasks being worked on:
 
-As of Dec 16, 2022
+As of Dec 19, 2022
 1. Getting the growth curves of the tree species of the researched area (spanning over US & Canadian territories)
-2. Fixing the CRS of continent shapes
-3. Interacting with the processed outputs of GCBM.Belize
-4. Figuring out Taswira
+2. Read "Model of carbon-dynamics in forestry and land-use change"
+3. Fixing the CRS of continent shapes
+4. Biomass, GSV, tree landscape datasets
+5. Maybe some inventory graphs
+6. Interacting with the processed outputs of GCBM.Belize
+7. Figuring out Taswira
+8. Functions, loops...
 
 Done:
 ✓ Installed GCBM tools 
@@ -14,4 +18,4 @@ Done:
 ✓ Some methodology literature sources
 ✓ Boundaries of researched area
 ✓ General spatial data 
-✓ General idea of what tree species are on the researched area
+✓ Identify dominant tree species are on the researched area
