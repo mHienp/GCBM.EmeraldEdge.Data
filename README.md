@@ -9,9 +9,9 @@ https://www.bezosearthfund.org/our-programs/the-emerald-edge-protecting-living-c
 
 **Coastal Alaska forests**
 > **Western hemlock** forests are a major component of forest structure and function throughout the inventory unit. In total, western hemlock forest types contain nearly twice the amount of aboveground biomass (~560 million tons) than any other forest type. When scaled across the landscape, western hemlock, **Sitka spruce** and **western redcedar** contribute nearly equally to the carbon mass of coastal Alaska forests. These species are considered **old-growth** and play an important role in the long-term storage of carbon in the ecosystem.
-> Among the hardwood forest types, **red alder** forests contain the greatest carbon mass per hectare. Red alder is a pioneer species that requires abundant sunlight and quickly colonizes disturbed soils, creating dense stands of **young, fast-growing** individuals. 
 
-https://usfs.maps.arcgis.com
+![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/alaska_AGB_age.png)
+https://www.fs.usda.gov/pnw/pubs/pnw_gtr979.pdf
 
 **British Columbia Pacific Maritime ecozone**
 
