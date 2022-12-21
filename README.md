@@ -7,7 +7,7 @@ https://www.bezosearthfund.org/our-programs/the-emerald-edge-protecting-living-c
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/Holdridge.png)
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/temp.png)
 
-**Coastal Alaska forests minus Cook Inlet**
+**Coastal Alaska forests excluding Cook Inlet**
 > **Western hemlock** forests are a major component of forest structure and function throughout the inventory unit. In total, western hemlock forest types contain nearly twice the amount of aboveground biomass (~560 million tons) than any other forest type. When scaled across the landscape, western hemlock, **Sitka spruce** and **western redcedar** contribute nearly equally to the carbon mass of coastal Alaska forests. These species are considered **old-growth** and play an important role in the long-term storage of carbon in the ecosystem.
 
 Cook Inlet has a negligible amount of the major species above so the whole data for them from Coastal Alaska forests can be used for Emerald Edge.
