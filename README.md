@@ -30,7 +30,7 @@ Cook Inlet has a negligible amount of the major species above so the whole data 
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/alaska_AGB_age.png)
 https://www.fs.usda.gov/pnw/pubs/pnw_gtr979.pdf
 
-**British Columbia Pacific Maritime ecozone**
+**British Columbia Pacific Maritime ecozone (Canadian classification)**
 
 Predominant tree genus (forest land only) | Volume |  
 --- | --- |
