@@ -7,6 +7,20 @@ https://www.bezosearthfund.org/our-programs/the-emerald-edge-protecting-living-c
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/Holdridge.png)
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/temp.png)
 
+Main tree species | Scientific name | Habitat | Grows with |
+--- | --- | --- | --- |
+Western hemlock | Tsuga heterophylla | 0.3-11.3 °C, coastal, humid, moist, temperate rainforest | many |
+Mountain hemlock | Tsuga mertensiana | montane, cold, snowy subalpine, boreal | yellow-cedar, amabilis fir |
+Western redcedar | Thuja plicata | up to 11.3 °C, maritime, cool, moist, temperate rainforest | western hemlock, amabilis fir, Douglas-fir |
+Yellow-cedar | Chamaecyparis nootkatensis | coastal | western hemlock, mountain hemlock, western redcedar, amabilis fir |
+Amabilis fir | Abies amabilis | coastal | western hemlock, mountain hemlock, western redcedar, yellow-cedar |
+Douglas-fir | Pseudotsuga menziesii | coastal or interior | hemlock, western redcedar |
+Sitka spruce | Picea sitchensis | coastal, temperate rainforest | western hemlock, western redcedar, yellow-cedar |
+
+www.for.gov.bc.ca
+
+www.fs.usda.gov
+
 **Coastal Alaska forests not including Cook Inlet**
 > **Western hemlock** forests are a major component of forest structure and function throughout the inventory unit. In total, western hemlock forest types contain nearly twice the amount of aboveground biomass (~560 million tons) than any other forest type. When scaled across the landscape, western hemlock, **Sitka spruce** and **western redcedar** contribute nearly equally to the carbon mass of coastal Alaska forests. These species are considered **old-growth** and play an important role in the long-term storage of carbon in the ecosystem.
 
