@@ -1,15 +1,16 @@
 Tasks being worked on:
 
-As of Dec 21, 2022
-1. Read "Model of carbon-dynamics in forestry and land-use change"
-2. GCBM methodology
-3. Interacting with the processed outputs of GCBM.Belize (R)
-4. Fixing the CRS of continent shapes
-5. Python notebooks
-6. Biomass, GSV, tree landscape datasets
-7. Color scale
-8. Figuring out Taswira
-9. Functions, loops...
+As of Dec 22, 2022
+1. Richards Growth Curve
+2. Read "Model of carbon-dynamics in forestry and land-use change"
+3. GCBM methodology
+4. Interacting with the processed outputs of GCBM.Belize (R)
+5. Fixing the CRS of continent shapes
+6. Python notebooks
+7. Biomass, GSV, tree landscape datasets
+8. Color scale
+9. Figuring out Taswira
+10. Functions, loops...
 
 Done:
 ✓ Installed GCBM tools 
