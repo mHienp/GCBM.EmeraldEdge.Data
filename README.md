@@ -11,7 +11,7 @@ Main tree species | Scientific name | Habitat | Grows with |
 --- | --- | --- | --- |
 Western hemlock | Tsuga heterophylla | 0.3-11.3 °C, coastal, humid, moist, temperate rainforest | many |
 Mountain hemlock | Tsuga mertensiana | montane, cold, snowy subalpine, boreal | yellow-cedar, amabilis fir |
-Western redcedar | Thuja plicata | up to 11.3 °C, maritime, cool, moist, temperate rainforest | western hemlock, amabilis fir, Douglas-fir |
+Western redcedar | Thuja plicata | up to 11.7 °C, maritime, cool, moist, temperate rainforest | western hemlock, amabilis fir, Douglas-fir |
 Yellow-cedar | Chamaecyparis nootkatensis | coastal | western hemlock, mountain hemlock, western redcedar, amabilis fir |
 Amabilis fir | Abies amabilis | coastal | western hemlock, mountain hemlock, western redcedar, yellow-cedar |
 Douglas-fir | Pseudotsuga menziesii | coastal or interior | hemlock, western redcedar |
