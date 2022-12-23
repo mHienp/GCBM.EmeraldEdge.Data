@@ -8,17 +8,19 @@ https://www.bezosearthfund.org/our-programs/the-emerald-edge-protecting-living-c
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/Holdridge.png)
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/temp.png)
 
-Main tree species | Scientific name | Habitat | Grows with |
+Main tree species | Scientific name | Habitat | Associated with |
 --- | --- | --- | --- |
 Western hemlock | Tsuga heterophylla | 0.3-11.3 °C, coastal, humid, moist, temperate rainforest | many |
-Mountain hemlock | Tsuga mertensiana | montane, cold, snowy subalpine, boreal | yellow-cedar, amabilis fir |
-Western redcedar | Thuja plicata | up to 11.7 °C, maritime, cool, moist, wet, temperate rainforest | western hemlock, amabilis fir, Douglas-fir |
-Yellow-cedar | Chamaecyparis nootkatensis | coastal | western hemlock, mountain hemlock, western redcedar, amabilis fir |
-Amabilis fir | Abies amabilis | coastal | western hemlock, mountain hemlock, western redcedar, yellow-cedar |
-Douglas-fir | Pseudotsuga menziesii | coastal or interior | hemlock, western redcedar |
-Sitka spruce | Picea sitchensis | coastal, temperate rainforest | western hemlock, western redcedar, yellow-cedar |
+Mountain hemlock | Tsuga mertensiana | cold, snowy subalpine boreal, cool temperate | yellow-cedar, amabilis fir |
+Western redcedar | Thuja plicata | up to 11.7 °C, maritime, moist, wet, cool temperate rainforest | western hemlock, amabilis fir, Douglas-fir |
+Yellow-cedar | Chamaecyparis nootkatensis | coastal, subalpine boreal, cool temperate | western hemlock, mountain hemlock, western redcedar, amabilis fir |
+Amabilis fir | Abies amabilis | maritime subalpine boreal | western hemlock, mountain hemlock, western redcedar, yellow-cedar |
+Douglas-fir | Pseudotsuga menziesii | coastal or interior, cool and warm temperate | hemlock, western redcedar |
+Sitka spruce | Picea sitchensis | coastal, subalpine boreal, cool temperate rainforest | western hemlock, western redcedar, yellow-cedar |
 
 www.for.gov.bc.ca
+
+https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/tree-species-selection/tree-species-compendium-index
 
 www.fs.usda.gov
 
