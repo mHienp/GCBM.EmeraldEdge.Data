@@ -1,31 +1,34 @@
 Tasks being worked on:
 
-As of Dec 24, 2022
 1. Richards Growth Curve
-2. Read "Model of carbon-dynamics in forestry and land-use change"
+2. "Model of carbon-dynamics in forestry and land-use change"
 3. GCBM methodology
 4. Match zones
 5. Search keywords
 6. Height, diameter, volume
-7. Interacting with the processed outputs of GCBM.Belize (R)
-8. Fixing the CRS of continent shapes
+7. GCBM.Belize (R)
+8. CRS of continent shapes
 9. Python notebooks
 10. Biomass, GSV, tree landscape datasets
 11. Color scale
-12. Figuring out Taswira
+12. Taswira/d
 13. Functions, loops...
+14. Cloud & other adjacents
+15. 100
+16. Disturbance table
 
 Done:
 ✓ Installed GCBM tools 
 ✓ Youtube training videos
-✓ Trial processing GCBM.Carpathians (3 hours)
-✓ Trial processing GCBM.Belize (11.5 hours)
-✓ Some methodology literature sources
-✓ Boundaries of researched area
+✓ Trial processing GCBM.Carpathians
+✓ Trial processing GCBM.Belize
+✓ Public/official sources
+✓ Boundaries
 ✓ General spatial data 
-✓ Identify dominant tree species on the researched area
+✓ Identify dominant species
 ✓ Inventory graphs
 ✓ Growth curves
-✓ Some terms & metrics I don't understand
-✓ Douglas-fir 
+✓ Search terms looked up
+✓ Douglas-fir
+✓ What matters
 ✓ NLP
