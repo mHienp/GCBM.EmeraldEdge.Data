@@ -10,13 +10,13 @@ https://www.bezosearthfund.org/our-programs/the-emerald-edge-protecting-living-c
 
 Main tree species | Scientific name | Habitat | Associated with | Disturbances |
 --- | --- | --- | --- | --- |
-Western hemlock | Tsuga heterophylla | 0.3-11.3 °C, coastal, humid, moist, temperate rainforest | many | fire, western hemlock looper, hemlock sawfly, western blackheaded budworm, dwarf mistletoe |
-Mountain hemlock | Tsuga mertensiana | cold, snowy subalpine boreal, cool temperate | yellow-cedar, amabilis fir | dwarf mistletoe |
+Western hemlock | Tsuga heterophylla | 0.3-11.3 °C, coastal, humid, moist, temperate rainforest | many | fire, wind, western hemlock looper, hemlock sawfly, western blackheaded budworm, dwarf mistletoe |
+Mountain hemlock | Tsuga mertensiana | cold, snowy subalpine boreal, cool temperate | yellow-cedar, amabilis fir | wind, dwarf mistletoe |
 Western redcedar | Thuja plicata | up to 11.7 °C, maritime, moist, wet, cool temperate rainforest | western hemlock, Douglas-fir, Sitka spruce | fire, fungi |
 Yellow-cedar | Chamaecyparis nootkatensis | coastal, subalpine boreal, cool temperate | western hemlock, mountain hemlock, amabilis fir | |
-Amabilis fir | Abies amabilis | maritime subalpine boreal | western hemlock, mountain hemlock, yellow-cedar | balsam woolly adelgid, western hemlock looper, western balsam bark beetle |
+Amabilis fir | Abies amabilis | maritime subalpine boreal | western hemlock, mountain hemlock, yellow-cedar | wind, balsam woolly adelgid, western hemlock looper, western balsam bark beetle |
 Douglas-fir | Pseudotsuga menziesii | coastal or interior, cool and warm temperate | western hemlock, western redcedar | fire, western spruce budworm, Douglas-fir tussock moth, fungi |
-Sitka spruce | Picea sitchensis | coastal, subalpine boreal, cool temperate rainforest | western hemlock, western redcedar | white pine weevil, spruce beetle |
+Sitka spruce | Picea sitchensis | coastal, subalpine boreal, cool temperate rainforest | western hemlock, western redcedar | wind, white pine weevil, spruce beetle |
 
 www.for.gov.bc.ca
 
