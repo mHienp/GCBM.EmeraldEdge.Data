@@ -5,7 +5,7 @@ Tasks being worked on:
 3. GCBM methodology
 4. Match zones
 5. Search keywords
-6. Height, diameter, volume
+6. Papers
 7. GCBM.Belize (R)
 8. CRS of continent shapes
 9. Python notebooks
@@ -13,9 +13,6 @@ Tasks being worked on:
 11. Color scale
 12. Taswira/d
 13. Functions, loops...
-14. Cloud & other adjacents
-15. 100
-16. Disturbance table
 
 Done:
 ✓ Installed GCBM tools 
@@ -30,5 +27,7 @@ Done:
 ✓ Growth curves
 ✓ Search terms looked up
 ✓ Douglas-fir
-✓ What matters
 ✓ NLP
+✓ Disturbances
+✓ Stage/push
+✓ Folders
