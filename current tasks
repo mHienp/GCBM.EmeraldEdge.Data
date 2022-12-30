@@ -3,16 +3,14 @@ Tasks being worked on:
 1. Richards Growth Curve
 2. "Model of carbon-dynamics in forestry and land-use change"
 3. GCBM methodology
-4. Match zones
-5. Search keywords
-6. Papers
-7. GCBM.Belize (R)
-8. CRS of continent shapes
-9. Python notebooks
-10. Biomass, GSV, tree landscape datasets
-11. Color scale
-12. Taswira/d
-13. Functions, loops...
+4. Papers
+5. GCBM.Belize (R)
+6. CRS of continent shapes
+7. Python notebooks
+8. Biomass, GSV, tree landscape datasets
+9. Color scale
+10. Taswira/d
+11. Functions...
 
 Done:
 ✓ Installed GCBM tools 
@@ -31,3 +29,6 @@ Done:
 ✓ Disturbances
 ✓ Stage/push
 ✓ Folders
+✓ Loops
+✓ Search term generator
+✓ Match zones
