@@ -3,8 +3,8 @@
 
 https://www.bezosearthfund.org/our-programs/the-emerald-edge-protecting-living-carbon-resources
 
-![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/Econame.png)
-![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/Ecozones.png)
+![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/Eco%20Names.png)
+![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/Eco%20Zones.png)
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/Holdridge.png)
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/temperature.png)
 
