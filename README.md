@@ -6,7 +6,7 @@ https://www.bezosearthfund.org/our-programs/the-emerald-edge-protecting-living-c
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/Eco%20Names.png)
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/Eco%20Zones.png)
 ![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/Holdridge.png)
-![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/temperature.png)
+![alt text](https://github.com/mHienp/GCBM.EmeraldEdge.Data/blob/main/img/temperature%20blue-white%20(0)-orange.png)
 
 Main tree species | Scientific name | Habitat | Associated with | Disturbances |
 --- | --- | --- | --- | --- |
