@@ -2,15 +2,14 @@ Tasks being worked on:
 
 1. GCBM.Belize (R)
   a. path
-2. First yield curve table
+2. Yield curve table
 3. Simulation
-4. "Empirical data"
-5. "Iterations"
-6. CRS of continent
-7. Notebooks
-8. Biomass, GSV, tree landscape, (soil C), (nutrient) datasets
-9. Taswira/d
-10. Richards Growth Curve
+4. "Iterations"
+5. CRS of continent
+6. Notebooks
+7. Biomass, GSV, tree landscape, (soil C), (nutrient) datasets
+8. Taswira/d
+9. Min max
 
 Done:
 ✓ Installed GCBM tools 
@@ -37,3 +36,7 @@ Done:
 ✓ GCBM methodology
 ✓ Papers
 ✓ Color scale
+✓ Assumptions
+✓ "Parameters"
+✓ "Literature"
+✓ R basics
