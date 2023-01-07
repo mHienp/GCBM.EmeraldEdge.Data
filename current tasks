@@ -4,11 +4,9 @@ Tasks being worked on:
   a. path
 2. Yield curve table
 3. Simulation
-4. "Iterations"
-5. CRS of continent
-6. Notebooks
-8. Taswira/d
-9. Min max
+4. CRS of continent
+5. Taswira/d
+6. Min max, zones
 
 Done:
 ✓ Installed GCBM tools 
@@ -36,6 +34,7 @@ Done:
 ✓ Papers
 ✓ Color scale
 ✓ Assumptions
-✓ "Parameters"
-✓ "Literature"
+✓ Parameters
+✓ Literature
 ✓ R basics
+✓ Richard's growth curve fit
