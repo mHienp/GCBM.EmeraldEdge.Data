@@ -1,13 +1,12 @@
 Tasks being worked on:
 
 1. Web plot digitize
-2. Yield curve table
-3. Simulation
-4. GCBM.Belize (R)
+2. Simulation (Puget Lowland Forests)
+3. GCBM.Belize (R)
   a. path
-5. CRS of continent
-6. Taswira/d
-7. Min max, zones
+4. CRS of continent
+5. Taswira/d
+6. Min max, zones
 
 Done:
 ✓ Installed GCBM tools 
@@ -40,3 +39,5 @@ Done:
 ✓ R basics
 ✓ Richard's growth curve fit
 ✓ Papers
+✓ Yield curve table
+✓ Processing for Puget Lowland Forests
