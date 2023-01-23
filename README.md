@@ -24,6 +24,17 @@ https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resourc
 
 www.fs.usda.gov
 
+Carbon Sequestration Literature | Ecozone |
+--- | --- |
+Slow growth, long-lived trees, and minimal disturbance characterize the dynamics of an ancient, montane forest in coastal British Columbia | |
+Old-growth forest structure in a low-productivity hypermaritime rainforest in coastal British Columbia, Canada | |
+Managing cedar-hemlock-salal scrub forests on the north coast of British Columbia | |
+Growth and yield of all-aged Douglas-fir – western hemlock forest stands: a matrix model with stand diversity effects | |
+High-resolution mapping of time since disturbance and forest carbon flux from remote sensing and inventory data to assess harvest, fire, and beetle disturbance legacies in the Pacific Northwest | |
+Effects of Management on Carbon Sequestration in Forest Biomass in Southeast Alaska | |
+
+### **National Inventories Data**
+
 **Coastal Alaska forests not including Cook Inlet**
 > **Western hemlock** forests are a major component of forest structure and function throughout the inventory unit. In total, western hemlock forest types contain nearly twice the amount of aboveground biomass (~560 million tons) than any other forest type. When scaled across the landscape, western hemlock, **Sitka spruce** and **western redcedar** contribute nearly equally to the carbon mass of coastal Alaska forests. These species are considered **old-growth** and play an important role in the long-term storage of carbon in the ecosystem.
 
