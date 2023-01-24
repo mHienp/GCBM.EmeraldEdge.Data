@@ -31,9 +31,9 @@ www.fs.usda.gov
 
 Carbon Sequestration Literature | Study Site | General Ecozone |
 --- | --- | --- |
-Slow growth, long-lived trees, and minimal disturbance characterize the dynamics of an ancient, montane forest in coastal British Columbia | Mount Elphinstone | Puget lowland forests|
+Slow growth, long-lived trees, and minimal disturbance characterize the dynamics of an ancient, montane forest in coastal British Columbia | Mount Elphinstone | Puget lowland forests / boreal rain / cool temperate wet |
 Old-growth forest structure in a low-productivity hypermaritime rainforest in coastal British Columbia, Canada | | |
-Managing cedar-hemlock-salal scrub forests on the north coast of British Columbia | Porcher Island, Oona River | British Columbia mainland coastal forests |
+Managing cedar-hemlock-salal scrub forests on the north coast of British Columbia | Porcher Island, Oona River | British Columbia mainland coastal forests / cool temperate rain |
 Growth and yield of all-aged Douglas-fir – western hemlock forest stands: a matrix model with stand diversity effects | | |
 High-resolution mapping of time since disturbance and forest carbon flux from remote sensing and inventory data to assess harvest, fire, and beetle disturbance legacies in the Pacific Northwest | | |
 Effects of Management on Carbon Sequestration in Forest Biomass in Southeast Alaska | | |
