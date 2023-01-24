@@ -2,9 +2,13 @@
 
 * Spatial boundaries in the Spatial Data folder
 
-* Developed growth curves using Chapman-Richard's function in the Tabular Data folder
+* Growth curves using Chapman-Richard's function in the Tabular Data folder
 
 * Test simulations for sub-area (Puget) in the GCBM.Puget repo
+
+### **Summary**
+
+* Ancient forests along the west coast of North America with significant carbon storage
 
 >The Emerald Edge is one of the most productive carbon sinks on Earth, spanning 100 million acres of forest along the Pacific Coast of **Washington**, **British Columbia**, and **Alaska**. Benefitting from long-established relationships with Indigenous First Nations, Alaska Natives and coastal tribes are leading sustainable economic and community development. Through the work of Indigenous partners in the area and leveraging local government support, the project will help to sequester 3.5 million metric tons of CO2 through permanent protection of over 100,000 hectares of **old growth** forest.
 
