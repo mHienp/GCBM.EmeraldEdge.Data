@@ -19,7 +19,7 @@ Western hemlock | Tsuga heterophylla | 0.3-11.3 °C, coastal, humid, moist, temp
 Mountain hemlock | Tsuga mertensiana | cold, snowy subalpine boreal, cool temperate | 500-800 | wind, dwarf mistletoe |
 Western redcedar | Thuja plicata | up to 11.7 °C, maritime, moist, wet, cool temperate rainforest | 800-1000 | fire, fungi |
 Yellow-cedar | Chamaecyparis nootkatensis | coastal, subalpine boreal, cool temperate | 800-1000+ | wind |
-Pacific silver (Amabilis) fir | Abies amabilis | maritime subalpine boreal | 350-500 | wind, balsam woolly adelgid, western hemlock looper, western balsam bark beetle |
+Pacific silver fir | Abies amabilis | maritime subalpine boreal | 350-500 | wind, balsam woolly adelgid, western hemlock looper, western balsam bark beetle |
 Douglas-fir | Pseudotsuga menziesii | coastal or interior, cool and warm temperate | 500-1000 | fire, western spruce budworm, Douglas-fir tussock moth, fungi |
 Sitka spruce | Picea sitchensis | coastal, subalpine boreal, cool temperate rainforest | 400 | wind, white pine weevil, spruce beetle |
 
@@ -54,7 +54,7 @@ Predominant tree genus (forest land only) | Volume |
 --- | --- |
 Hemlock (coastal western hemlock, mountain hemlock) | 47.6% |
 Cedar (yellow-cedar, western redcedar) and other conifers | 19.5% |
-Fir (Amabilis fir) | 12.7% | +1 |
+Fir (Pacific silver fir) | 12.7% | +1 |
 Douglas-fir (coastal Douglas-fir) | 12.5% |
 Spruce (Sitka spruce) | 2.6% |
 
