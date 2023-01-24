@@ -19,7 +19,7 @@ Western hemlock | Tsuga heterophylla | 0.3-11.3 °C, coastal, humid, moist, temp
 Mountain hemlock | Tsuga mertensiana | cold, snowy subalpine boreal, cool temperate | 500-800 | wind, dwarf mistletoe |
 Western redcedar | Thuja plicata | up to 11.7 °C, maritime, moist, wet, cool temperate rainforest | 800-1000 | fire, fungi |
 Yellow-cedar | Chamaecyparis nootkatensis | coastal, subalpine boreal, cool temperate | 800-1000+ | wind |
-Amabilis fir | Abies amabilis | maritime subalpine boreal | 350-500 | wind, balsam woolly adelgid, western hemlock looper, western balsam bark beetle |
+Pacific silver (Amabilis) fir | Abies amabilis | maritime subalpine boreal | 350-500 | wind, balsam woolly adelgid, western hemlock looper, western balsam bark beetle |
 Douglas-fir | Pseudotsuga menziesii | coastal or interior, cool and warm temperate | 500-1000 | fire, western spruce budworm, Douglas-fir tussock moth, fungi |
 Sitka spruce | Picea sitchensis | coastal, subalpine boreal, cool temperate rainforest | 400 | wind, white pine weevil, spruce beetle |
 
@@ -29,14 +29,14 @@ https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resourc
 
 www.fs.usda.gov
 
-Carbon Sequestration Literature | Ecozone |
---- | --- |
-Slow growth, long-lived trees, and minimal disturbance characterize the dynamics of an ancient, montane forest in coastal British Columbia | |
-Old-growth forest structure in a low-productivity hypermaritime rainforest in coastal British Columbia, Canada | |
-Managing cedar-hemlock-salal scrub forests on the north coast of British Columbia | |
-Growth and yield of all-aged Douglas-fir – western hemlock forest stands: a matrix model with stand diversity effects | |
-High-resolution mapping of time since disturbance and forest carbon flux from remote sensing and inventory data to assess harvest, fire, and beetle disturbance legacies in the Pacific Northwest | |
-Effects of Management on Carbon Sequestration in Forest Biomass in Southeast Alaska | |
+Carbon Sequestration Literature | Study Site | General Ecozone |
+--- | --- | --- |
+Slow growth, long-lived trees, and minimal disturbance characterize the dynamics of an ancient, montane forest in coastal British Columbia | Mount Elphinstone | Puget lowland forests|
+Old-growth forest structure in a low-productivity hypermaritime rainforest in coastal British Columbia, Canada | | |
+Managing cedar-hemlock-salal scrub forests on the north coast of British Columbia | Porcher Island, Oona River | British Columbia mainland coastal forests |
+Growth and yield of all-aged Douglas-fir – western hemlock forest stands: a matrix model with stand diversity effects | | |
+High-resolution mapping of time since disturbance and forest carbon flux from remote sensing and inventory data to assess harvest, fire, and beetle disturbance legacies in the Pacific Northwest | | |
+Effects of Management on Carbon Sequestration in Forest Biomass in Southeast Alaska | | |
 
 ### **National Inventories Data**
 
