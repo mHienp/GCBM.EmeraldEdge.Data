@@ -1,11 +1,11 @@
 Tasks being worked on:
 
-1. Simulation (Puget Lowland Forests)
-2. GCBM.Belize (R)
+1. Interact with outputs (R)
   a. path
-3. CRS of continent
-4. Taswira/d
-5. Min max, zones
+2. CRS of continent
+3. Taswira/d
+4. Min max, zones
+5. Height/diameter to merchantable volume
 
 Done:
 ✓ Installed GCBM tools 
@@ -43,3 +43,4 @@ Done:
 ✓ Web plot digitizer
 ✓ Volume to biomass
 ✓ Height/diameter to merchantable volume
+✓ Simulation (Puget Lowland Forests)
