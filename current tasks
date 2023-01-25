@@ -1,11 +1,11 @@
 Tasks being worked on:
 
-1. Interact with outputs (R)
-  a. path
-2. CRS of continent
-3. Taswira/d
-4. Min max, zones
+1. Simulation #2
+2. Taswira/docker
+3. Min max, zones
+4. CRS of continents
 5. Height/diameter to merchantable volume
+6. AGB dataset compare
 
 Done:
 ✓ Installed GCBM tools 
@@ -17,9 +17,9 @@ Done:
 ✓ General spatial data 
 ✓ Identify dominant species
 ✓ Inventory graphs
-✓ Growth curves
+✓ Growth data
 ✓ Search terms looked up
-✓ Douglas-fir
+✓ Douglas-fir types
 ✓ NLP
 ✓ Disturbances
 ✓ Stage/push
@@ -43,4 +43,8 @@ Done:
 ✓ Web plot digitizer
 ✓ Volume to biomass
 ✓ Height/diameter to merchantable volume
+✓ Preprocessing for tiler/recliner
 ✓ Simulation (Puget Lowland Forests)
+✓ Markdown
+✓ Output visual draft
+✓ Interact with Belize outputs (R)
