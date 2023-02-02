@@ -1,14 +1,15 @@
 Tasks being worked on:
 
-1. Net Biome Product (or NBP) sink/source
+1. Net Biome Product (NBP) sink/source
 2. Logging disturbance
 3. R/Python-SQL
 4. Average curve
-5. Taswira/docker
-6. Min max, zones
-7. CRS of continents
-8. Height/diameter to merchantable volume?
-9. AGB dataset compare
+5. Flint.Cloud
+6. Taswira/docker
+7. Min max, zones
+8. CRS of continents
+9. Height/diameter to merchantable volume?
+10. AGB dataset compare
 
 Done:
 ✓ Installed GCBM tools 
