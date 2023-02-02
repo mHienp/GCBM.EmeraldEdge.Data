@@ -4,7 +4,7 @@
 
 * Growth curves using Chapman-Richard's function in the Tabular Data folder
 
-* Test simulations for sub-area (Puget) in the [GCBM.Puget repo](https://github.com/mHienp/GCBM.Puget)
+* 150-year simulation with sensitivity analysis for sub-area (Puget) in the [GCBM.Puget repo](https://github.com/mHienp/GCBM.Puget)
 
 ### **Summary**
 
