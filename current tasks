@@ -1,13 +1,10 @@
 Tasks being worked on:
 
-1. Logging disturbance
-2. R/Python-SQL
+1. Wildfire Monte Carlo paper
+2. Logging disturbance
 3. Average curve
 4. Flint.Cloud
-5. Taswira/docker
-6. Min max, zones
-7. CRS of continents
-8. Height/diameter to merchantable volume?
+5. Height/diameter to merchantable volume?
 
 Done:
 ✓ Installed GCBM tools 
@@ -54,3 +51,4 @@ Done:
 ✓ Simulation #2 - initial year
 ✓ Net Biome Product (NBP) sink/source
 ✓ AGB dataset compare
+✓ R/Python-SQL
