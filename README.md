@@ -1,14 +1,6 @@
 # Data preprocessing for GCBM.EmeraldEdge
 
-* Spatial boundaries in the Spatial Data folder
-
-* Growth curves using Chapman-Richard's function in the Tabular Data folder
-
-* 150-year simulation with sensitivity analysis for sub-area (Puget) in the [GCBM.Puget repo](https://github.com/mHienp/GCBM.Puget)
-
-### **Summary**
-
-* Ancient forests along the west coast of North America with significant carbon storage
+* Test simulation for sub-area [Puget](https://github.com/mHienp/GCBM.Puget)
 
 <details>
 
