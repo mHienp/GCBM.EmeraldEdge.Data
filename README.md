@@ -1,6 +1,7 @@
 # Data preprocessing for GCBM.EmeraldEdge
 
-* Test simulation for sub-area [Puget](https://github.com/mHienp/GCBM.Puget)
+* Simulation for sub-area [Puget](https://github.com/mHienp/GCBM.Puget)
+* [Documentation](https://github.com/mHienp/GCBM.EmeraldEdge.Data/wiki)
 
 <details>
 
